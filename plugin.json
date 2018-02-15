@@ -1,0 +1,8 @@
+{
+    "name"              :"MarocWO",
+    "description"       :"Beispiel Plugin",
+    "namespace"         :"HelloWorld\\Providers\\HelloWorldServiceProvider",
+    "author"            :"Ayoub El Hobbi",
+    "type"              :"template",
+    "serviceProvider"   :null
+}
