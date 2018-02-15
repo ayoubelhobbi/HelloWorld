@@ -1,6 +1,6 @@
 {
-    "name"              :"MarocWO",
-    "description"       :"Beispiel Plugin",
+    "name"              :"Maroc",
+    "description"       :"BeispielPlugin",
     "namespace"         :"HelloWorld\\Providers\\HelloWorldServiceProvider",
     "author"            :"Ayoub El Hobbi",
     "type"              :"template",
